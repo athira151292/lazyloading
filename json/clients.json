@@ -1,5 +1,5 @@
 {  
-   "clientset1":[  
+   "clients":[  
       {  
          "imgurl":"images/market360.png",
          "category":"education"
@@ -11,9 +11,7 @@
       {  
          "imgurl":"images/breatheplotter.png",
          "category":"education"
-      }
-   ],
-   "clientset2":[  
+      },
       {  
          "imgurl":"images/businessIntegration.jpg",
          "category":"media"
@@ -25,9 +23,7 @@
       {  
          "imgurl":"images/businessWebsite.png",
          "category":"health"
-      }
-   ],
-   "clientset3":[  
+      },
       {  
          "imgurl":"images/car.png",
          "category":"media"
